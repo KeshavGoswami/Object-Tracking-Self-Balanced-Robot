@@ -13,16 +13,6 @@ Image Processing has been the talk of e-world for some years. Its varied applica
 
 
   GALLERY
-
-
-
-
-
-
-
-
-
-
-
-
- 
+  <p align="center">
+  <img width="460" height="300" src="D:\Github\Object  Tracking Self Balanced Robot\Images\20170629_172729">
+</p>
